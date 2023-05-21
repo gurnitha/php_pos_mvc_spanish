@@ -13,3 +13,6 @@ MEMBUAT APLIKASI POS MENGGUNAKAN PHP MVC
         modified:   README.md
         new file:   index.php
         new file:   views/template.php
+
+
+## Section 2: AdminLTE and Model-View-Controller
