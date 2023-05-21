@@ -8,4 +8,8 @@ MEMBUAT APLIKASI POS MENGGUNAKAN PHP MVC
         new file:   README.md
 
 
+#### 1.1 Membuat folder dan files
 
+        modified:   README.md
+        new file:   index.php
+        new file:   views/template.php
